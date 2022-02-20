@@ -7,20 +7,11 @@
     font-family: 'Raleway', sans-serif;
 }
 
-
-/* Utility */
-/* .debug {
-    border: 1px solid black;
-    /* height: 100px; */
-    /* height: 400px; */
-/* } */
-
 /* General */
 .container {
     width: 1400px;
     margin: 0 auto;
     padding: 0 100px;
-    /* background-color: white; */
 }
 p{
     color: grey;
@@ -121,6 +112,7 @@ aside {
     border: 1px solid grey;
     border-radius: 20px;
     margin-bottom: 10px;
+    opacity: 0.5;
 }
 
 .left p, .main-center p, .right p{
